@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+ 	background-image: url(http://www.zingerbugimages.com/backgrounds/tan_starburst_radiating_lines_background_1800x1600.jpg)
+ }
