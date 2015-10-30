@@ -14,6 +14,25 @@
  *= require_self
  */
 
- body {
- 	background-image: url(http://www.zingerbugimages.com/backgrounds/tan_starburst_radiating_lines_background_1800x1600.jpg)
+ .storefront {
+   background-color: #FF4D4D;
  }
+
+ .welcome {
+   font-family: 'Lobster', cursive;
+   color: white;
+   text-align: center;
+   font-size: 150px;
+ }
+
+ .btn {
+   float: right;
+   margin-right: 460px;
+   margin-top: 75px;
+   background-color: white;
+   border-radius: 10px;
+}
+
+
+
+
